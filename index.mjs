@@ -38,6 +38,6 @@ export default function (list, { processDirectory = defaults.processDirectory, p
       }, acc);
       return acc;
     },
-    { type: "directory", children: {} }
+    { type: "directory", route: [],  children: {} }
   );
 }
