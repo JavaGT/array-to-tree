@@ -2,5 +2,9 @@
   "name": "@javagt/array-to-tree",
   "version": "1.0.1",
   "main": "index.mjs",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JavaGT/array-to-tree.git"
+  }
 }
